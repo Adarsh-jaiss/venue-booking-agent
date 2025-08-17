@@ -1,0 +1,56 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# OS generated files
+Thumbs.db
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.o
+*.a
+
+# Package managers
+package-lock.json
+yarn.lock
+
+# Coverage reports
+coverage/
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+
+
+extra/
+
+agent.log
+
+embeddings_progress_venues.json
