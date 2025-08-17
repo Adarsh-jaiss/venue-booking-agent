@@ -2,9 +2,9 @@ import json
 from pymongo import MongoClient
 
 # Mongo connection
-client = MongoClient("mongodb+srv://telo:WijJYNtGInFpICSY@telo.fl0eew2.mongodb.net/")  # change if needed
-db = client["telo"]
-collection = db["venues"]
+client = MongoClient("")  # change if needed
+db = client[""]
+collection = db[""]
 
 # Load input.json
 with open("mongo_venues.json", "r") as f:
