@@ -36,8 +36,8 @@ async def search_venues(query: str, top_k: int = 25, filters: dict | None = None
     if callable(getattr(results, "__await__", None)):
         results = await results
 
-    with open("venues_data.txt", "w", encoding="utf-8") as f:
-        f.write(str(results))
+    # with open("venues_data.txt", "w", encoding="utf-8") as f:
+    #     f.write(str(results))
 
     # Extract all venue IDs from the search results
     venue_ids = []
@@ -84,8 +84,8 @@ async def search_venues(query: str, top_k: int = 25, filters: dict | None = None
     }
     
     # Save the detailed venue data to a JSON file
-    with open("venue_search_response.json", "w", encoding="utf-8") as f:
-        json.dump(response_data, f, ensure_ascii=False, indent=2)
+    # with open("venue_search_response.json", "w", encoding="utf-8") as f:
+    #     json.dump(response_data, f, ensure_ascii=False, indent=2)
     
     logger.info("Venue search completed and saved to venue_search_response.json")
     
