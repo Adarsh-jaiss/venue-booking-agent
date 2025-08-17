@@ -1,1 +1,681 @@
-[{'venue_id': '688bd21010d4da1d1ad35236', 'score': 0.626279116, 'metadata': {'amenities': ['Dance Floor', 'Valet Parking', 'Media Room', 'Handicap Accessible', 'WiFi', 'A/V Equipment', 'Windows'], 'brand_image_path': 'https://partyslate.imgix.net/companie/11185/brand-image-862cc51a-3666-4b09-81df-f6ad6f3cfb58.png', 'capacity_seated_capacity': 275.0, 'capacity_standing_capacity': 275.0, 'capacity_total_capacity': 275.0, 'city': 'Boston', 'cover_image_path': 'https://partyslate.imgix.net/companie-cover-image/11102/image-dbcc1581-3afa-4cc5-b6ff-9ecffae75727.jpg', 'cover_images_count': 5.0, 'created_at': '2025-08-02T18:39:07.037613', 'description': "Host your big day at one of Boston's most historic wedding venues: The Bradford Collection, located within the Courtyard Boston Downtown.\n\nEntertain your guests in our iconic ballroom that has entertained A-listers since the 1920's. With Roaring 20's roots, the event space is ideal for couples who c", 'distance_from': 0.59, 'event_count_wedding': 3.0, 'event_space_names': ['Washington Ballroom', 'Library Room', 'Theater Ballroom', 'Get Ready Suite', 'Bradford Ballroom'], 'event_spaces_count': 5.0, 'experience_level': 'new', 'formatted_address': '275 Tremont St, Boston, MA 02116, USA', 'id': 11185.0, 'is_unclaimed': False, 'latitude': 42.3500654, 'location_distance_from': 0.59, 'location_formatted_address': '275 Tremont St, Boston, MA 02116, USA', 'location_latitude': 42.3500654, 'location_longitude': -71.0654299, 'longitude': -71.0654299, 'name': 'Courtyard Boston Downtown', 'phone_number': '+16179995094', 'plan_directory_ranking_level': 0.0, 'plan_has_announcements': False, 'plan_has_gallery_videos': True, 'plan_has_meet_the_team': False, 'plan_has_overview_video': False, 'plan_has_ps_insight': False, 'plan_has_recognitions': False, 'plan_has_social_links': True, 'plan_has_testimonials': False, 'plan_has_virtual_tour': False, 'plan_id': 1.0, 'plan_is_free': True, 'plan_max_cover_images': 1.0, 'plan_max_meet_the_team': 0.0, 'plan_name': 'basic', 'plan_show_sponsored_listings': True, 'plan_show_upgrade_prompts': True, 'popular_event_types': ['wedding'], 'slug': 'courtyard-boston-downtown', 'state': 'Massachusetts', 'total_events': 3.0, 'total_seated_all_spaces': 860.0, 'total_standing_all_spaces': 1215.0, 'type': 'Venue', 'type_label': 'Venue', 'updated_at': '2025-08-02T18:39:07.037632', 'venue_size': 'large'}}, {'venue_id': '688bd21010d4da1d1ad35242', 'score': 0.626173317, 'metadata': {'amenities': ['A/V Equipment', 'Dance Floor', 'Windows'], 'brand_image_path': 'https://partyslate.imgix.net/companie/34626/brand-image-0b86065f-afe1-43a3-87ce-92f1024f3fdf.jpeg', 'capacity_seated_capacity': 150.0, 'capacity_standing_capacity': 150.0, 'capacity_total_capacity': 150.0, 'city': 'Boston', 'cover_image_path': 'https://partyslate.imgix.net/companie-cover-image/51223/image-5d358a1c-7672-4bc1-a7c4-b02a56ddf8f7.png', 'cover_images_count': 1.0, 'created_at': '2025-08-02T18:39:31.402762', 'description': "Get Married Right Now\n\nWe LOVE a good love story, and yours is one of our favorites. And, because every romance is different, we pride ourselves on adopting a particular approach and producing an exclusive scenario especially for you. We'll help you make your special day whatever you want it to be w", 'distance_from': 1.26, 'event_count_wedding': 2.0, 'event_space_names': ['Ballroom'], 'event_spaces_count': 1.0, 'experience_level': 'new', 'formatted_address': '61 Exeter Street at, Boylston St, Boston, MA 02116, USA', 'id': 34626.0, 'is_unclaimed': False, 'latitude': 42.3491924, 'location_distance_from': 1.26, 'location_formatted_address': '61 Exeter Street at, Boylston St, Boston, MA 02116, USA', 'location_latitude': 42.3491924, 'location_longitude': -71.07961519999999, 'longitude': -71.07961519999999, 'name': 'Lenox Hotel', 'plan_directory_ranking_level': 0.0, 'plan_has_announcements': False, 'plan_has_gallery_videos': True, 'plan_has_meet_the_team': False, 'plan_has_overview_video': False, 'plan_has_ps_insight': False, 'plan_has_recognitions': False, 'plan_has_social_links': True, 'plan_has_testimonials': False, 'plan_has_virtual_tour': False, 'plan_id': 1.0, 'plan_is_free': True, 'plan_max_cover_images': 1.0, 'plan_max_meet_the_team': 0.0, 'plan_name': 'basic', 'plan_show_sponsored_listings': True, 'plan_show_upgrade_prompts': True, 'popular_event_types': ['wedding'], 'slug': 'lenox-hotel', 'state': 'Massachusetts', 'total_events': 2.0, 'total_seated_all_spaces': 150.0, 'total_standing_all_spaces': 150.0, 'type': 'Venue', 'type_label': 'Venue', 'updated_at': '2025-08-02T18:39:31.402785', 'venue_size': 'medium'}}, {'venue_id': '688bd21010d4da1d1ad35268', 'score': 0.624668539, 'metadata': {'brand_image_path': 'https://partyslate.imgix.net/companie/11242/brand-image-eeb08104-32a2-4104-b16d-542d6eb92ab1.jpg', 'capacity_seated_capacity': 0.0, 'capacity_standing_capacity': 173.0, 'capacity_total_capacity': 173.0, 'city': 'Boston', 'cover_image_path': 'https://partyslate.imgix.net/companie-cover-image/12173/image-a92258c8-6445-42ba-be15-de1ea6bce3df.jpg', 'cover_images_count': 1.0, 'created_at': '2025-08-02T18:40:06.130034', 'description': "With stylish venues and a prime location, W Boston is the perfect spot for your big day. Set in the heart of the city's Theatre District, the venues at W Boston provide a gorgeous backdrop for the wedding of your dreams. W Boston will bring your dreams to life with their dazzling décor and dedicated", 'distance_from': 0.57, 'experience_level': 'new', 'formatted_address': '100 Stuart St, Boston, MA 02116, USA', 'id': 11242.0, 'is_unclaimed': False, 'latitude': 42.3508419, 'location_distance_from': 0.57, 'location_formatted_address': '100 Stuart St, Boston, MA 02116, USA', 'location_latitude': 42.3508419, 'location_longitude': -71.0656551, 'longitude': -71.0656551, 'name': 'W Boston Hotel', 'phone_number': '+16173517389', 'plan_directory_ranking_level': 0.0, 'plan_has_announcements': False, 'plan_has_gallery_videos': True, 'plan_has_meet_the_team': False, 'plan_has_overview_video': False, 'plan_has_ps_insight': False, 'plan_has_recognitions': False, 'plan_has_social_links': True, 'plan_has_testimonials': False, 'plan_has_virtual_tour': False, 'plan_id': 1.0, 'plan_is_free': True, 'plan_max_cover_images': 1.0, 'plan_max_meet_the_team': 0.0, 'plan_name': 'basic', 'plan_show_sponsored_listings': True, 'plan_show_upgrade_prompts': True, 'response_display_sort_order': 50.0, 'response_id': 5.0, 'response_name': '12-24 hrs', 'response_slug': '12-24-hrs', 'slug': 'w-boston-hotel', 'state': 'Massachusetts', 'type': 'Venue', 'type_label': 'Venue', 'updated_at': '2025-08-02T18:40:06.130059', 'venue_size': 'large'}}, {'venue_id': '688bd21010d4da1d1ad352ec', 'score': 0.619757175, 'metadata': {'brand_image_path': 'https://partyslate.imgix.net/companie/41341/brand-image-f8fb0df6-8a9e-4f81-b999-ce66d4a0faf9.jpeg', 'capacity_seated_capacity': 0.0, 'capacity_standing_capacity': 0.0, 'capacity_total_capacity': 0.0, 'city': 'Boston', 'cover_image_path': 'https://partyslate.imgix.net/companie-cover-image/32288/image-f755f0bc-dc75-4c1a-b0b8-10d3865590ff.jpeg', 'cover_images_count': 1.0, 'created_at': '2025-08-02T18:41:42.829823', 'description': "Boston has its own culinary tradition, and its cuisine and flavor are distinctly New England. The InterContinental's three eating and gathering venues each offer something unique. Miel reinvents organic French classics. RumBa creates signature beverages in a stylish setting. The greatest vodkas from", 'distance_from': 0.27, 'experience_level': 'new', 'formatted_address': '510 Atlantic Ave, Boston, MA 02210, USA', 'id': 41341.0, 'is_unclaimed': True, 'latitude': 42.3536908, 'location_distance_from': 0.27, 'location_formatted_address': '510 Atlantic Ave, Boston, MA 02210, USA', 'location_latitude': 42.3536908, 'location_longitude': -71.0519125, 'longitude': -71.0519125, 'name': 'Miel', 'plan_directory_ranking_level': 0.0, 'plan_has_announcements': False, 'plan_has_gallery_videos': True, 'plan_has_meet_the_team': False, 'plan_has_overview_video': False, 'plan_has_ps_insight': False, 'plan_has_recognitions': False, 'plan_has_social_links': True, 'plan_has_testimonials': False, 'plan_has_virtual_tour': False, 'plan_id': 1.0, 'plan_is_free': True, 'plan_max_cover_images': 1.0, 'plan_max_meet_the_team': 0.0, 'plan_name': 'basic', 'plan_show_sponsored_listings': True, 'plan_show_upgrade_prompts': True, 'slug': 'miel', 'state': 'Massachusetts', 'type': 'Venue', 'type_label': 'Venue', 'updated_at': '2025-08-02T18:41:42.829835'}}, {'venue_id': '688bd21010d4da1d1ad3524c', 'score': 0.612725854, 'metadata': {'amenities': ['Dance Floor', 'Valet Parking', 'Street Parking', 'Media Room', 'Handicap Accessible', 'Coat Check', 'WiFi', 'A/V Equipment', 'Windows', 'Breakout Rooms', 'Pet Friendly'], 'brand_image_path': 'https://partyslate.imgix.net/companie/11195/brand-image-0ba41765-fc98-4be4-9571-aee14e64f784.png', 'capacity_seated_capacity': 336.0, 'capacity_standing_capacity': 540.0, 'capacity_total_capacity': 540.0, 'city': 'Boston', 'cover_image_path': 'https://partyslate.imgix.net/companie-cover-image/11199/image-6524b7b5-1b75-4c4a-9d10-2ff404b64be8.jpg', 'cover_images_count': 1.0, 'created_at': '2025-08-02T18:39:40.827594', 'description': "If you're looking for stylish meeting rooms and event space near Boston's Theater District, go no farther than our hotel. Our central location in the city is ideal for intelligent business travelers looking for stylish, efficient, and cheap venues that don't require them to walk or drive anywhere. F", 'distance_from': 0.26, 'event_count_wedding': 3.0, 'event_space_names': ['Berkshire / Marblehead / Quincy / Rockport', "Martha's Vineyard", 'Nantucket', 'Chatham', 'Adrienne Salon', 'Adrienne Salon', 'Cambridge/ Concord/ Dedham/ Duxbury/ Ipswich/ Lexington/ Marlborough/ Plymouth/ Sturbridge', 'Cape Cod', 'Grand Ballroom', 'Upper Avenue One'], 'event_spaces_count': 10.0, 'experience_level': 'new', 'formatted_address': '1 Ave de Lafayette, Boston, MA 02111, USA', 'id': 11195.0, 'is_unclaimed': False, 'latitude': 42.3535479, 'location_distance_from': 0.26, 'location_formatted_address': '1 Ave de Lafayette, Boston, MA 02111, USA', 'location_latitude': 42.3535479, 'location_longitude': -71.0609509, 'longitude': -71.0609509, 'name': 'Hyatt Regency Boston', 'phone_number': '+16174226394', 'plan_directory_ranking_level': 0.0, 'plan_has_announcements': False, 'plan_has_gallery_videos': True, 'plan_has_meet_the_team': False, 'plan_has_overview_video': False, 'plan_has_ps_insight': False, 'plan_has_recognitions': False, 'plan_has_social_links': True, 'plan_has_testimonials': False, 'plan_has_virtual_tour': False, 'plan_id': 1.0, 'plan_is_free': True, 'plan_max_cover_images': 1.0, 'plan_max_meet_the_team': 0.0, 'plan_name': 'basic', 'plan_show_sponsored_listings': True, 'plan_show_upgrade_prompts': True, 'popular_event_types': ['wedding'], 'response_display_sort_order': 40.0, 'response_id': 4.0, 'response_name': '6-12 hrs', 'response_slug': '6-12-hrs', 'slug': 'hyatt-regency-boston', 'state': 'Massachusetts', 'total_events': 3.0, 'total_seated_all_spaces': 36160475.0, 'total_standing_all_spaces': 40161905.0, 'type': 'Venue', 'type_label': 'Venue', 'updated_at': '2025-08-02T18:39:40.827623', 'venue_size': 'very_large'}}]
+{'matches': [{'id': '68a0bd6bcd170b1a7e9beec3',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': 'Boylston St , Boston, MA 02130, US',
+                           'budgetMax': 35131.0,
+                           'budgetMin': 17158.0,
+                           'businessDescription': 'You deserve a Venue that '
+                                                  'fits your Vision & Style. '
+                                                  "Boston's Best Events has "
+                                                  'what you need for any '
+                                                  'occasion. Looking for an '
+                                                  'interactive experience with '
+                                                  'your Team, a fun festive '
+                                                  'Birthday dinner with family '
+                                                  'or the perfect setting for '
+                                                  'you and your partners Big '
+                                                  'Day? Look no further! Our '
+                                                  'Event Planners will find '
+                                                  'you a great location and a '
+                                                  'delicious menu; leaving you '
+                                                  'to enjoy your event!',
+                           'businessEmail': 'info@bostonsbestevents.com',
+                           'businessName': "Boston's Best Events",
+                           'businessPhone': '+19173344461',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': "Business Name: Boston's Best "
+                                      'Events         Description: You deserve '
+                                      'a Venue that fits your Vision & Style. '
+                                      "Boston's Best Events has what you need "
+                                      'for any occasion. Looking for an '
+                                      'interactive experience with your Team, '
+                                      'a fun festive Birthday dinner with '
+                                      'family or the perfect setting for you '
+                                      'and your partners Big Day? Look no '
+                                      'further! Our Event Planners will find '
+                                      'you a great location and a delicious '
+                                      'menu; leaving you to enjoy your '
+                                      'event!         Location: Boylston St , '
+                                      'Boston, MA 02130, US         Events '
+                                      'Served: corporate         Service '
+                                      'Radius: 36.0 km         Languages: '
+                                      'en         Accessibility: '
+                                      'not_specified         Rating: 4.5 (from '
+                                      '110 reviews)         Contact: '
+                                      'info@bostonsbestevents.com | '
+                                      '+19173344461         Budget: $17158 - '
+                                      '$35131',
+                           'isApproved': True,
+                           'lat': 42.3169575,
+                           'leadTime': 21.0,
+                           'lng': -71.1059109,
+                           'rating': 4.5,
+                           'responseTime': 24.0,
+                           'reviewCount': 110.0,
+                           'serveEvents': ['corporate'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 36.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.573001385,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bee38',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '308 Congress St , Boston, MA 02210, US',
+                           'budgetMax': 47704.0,
+                           'budgetMin': 18658.0,
+                           'businessDescription': 'From Unforgettable Weddings '
+                                                  'to Inspiring Corporate and '
+                                                  'Social Events — Host Your '
+                                                  'Next Celebration at One of '
+                                                  'Boston’s Premier Venues  '
+                                                  'Located in Boston’s vibrant '
+                                                  'Seaport District, the '
+                                                  'Boston Children’s Museum '
+                                                  'offers a truly unique '
+                                                  'setting for your next '
+                                                  'event. With breathtaking '
+                                                  'views of the city skyline '
+                                                  'and waterfront, this iconic '
+                                                  'venue spans three floors of '
+                                                  'interactive exhibit space '
+                                                  'for your guests to discover '
+                                                  'and explore.  Perched along '
+                                                  'Fort Point Channel, in the '
+                                                  'heart of the trendy '
+                                                  'Seaport, the',
+                           'businessEmail': 'info@bostonchildrensmuseum.com',
+                           'businessName': "Boston Children's Museum",
+                           'businessPhone': '+16174279799',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': "Business Name: Boston Children's "
+                                      'Museum         Description: From '
+                                      'Unforgettable Weddings to Inspiring '
+                                      'Corporate and Social Events — Host Your '
+                                      'Next Celebration at One of Boston’s '
+                                      'Premier Venues  Located in Boston’s '
+                                      'vibrant Seaport District, the Boston '
+                                      'Children’s Museum offers a truly unique '
+                                      'setting for your next event. With '
+                                      'breathtaking views of the city skyline '
+                                      'and waterfront, this iconic venue spans '
+                                      'three floors of interactive exhibit '
+                                      'space for your guests to discover and '
+                                      'explore.  Perched along Fort Point '
+                                      'Channel, in the heart of the trendy '
+                                      'Seaport, the         Location: 308 '
+                                      'Congress St , Boston, MA 02210, '
+                                      'US         Events Served: '
+                                      'corporate         Service Radius: 31.0 '
+                                      'km         Languages: en         '
+                                      'Accessibility: not_specified         '
+                                      'Rating: 4.9 (from 163 reviews)         '
+                                      'Contact: info@bostonchildrensmuseum.com '
+                                      '| +16174279799         Budget: $18658 - '
+                                      '$47704',
+                           'isApproved': True,
+                           'lat': 42.3519736,
+                           'leadTime': 28.0,
+                           'lng': -71.04968389999999,
+                           'rating': 4.9,
+                           'responseTime': 24.0,
+                           'reviewCount': 163.0,
+                           'serveEvents': ['corporate'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 31.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.560328245,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bee57',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '425 Summer Street , Boston, MA 02210, '
+                                      'US',
+                           'budgetMax': 42363.0,
+                           'budgetMin': 24534.0,
+                           'businessDescription': 'Private Events at Laugh '
+                                                  'Boston! Steps away from the '
+                                                  'Boston Convention & '
+                                                  'Exhibition Center and '
+                                                  'located inside the Westin '
+                                                  'waterfront, Laugh Boston is '
+                                                  'a unique venue capable of '
+                                                  'transforming into whatever '
+                                                  'you’re envisioning, day or '
+                                                  'night, making it the '
+                                                  'perfect venue for your '
+                                                  'event.  Our full bar and '
+                                                  'light fare menu can provide '
+                                                  'food and drink for 300-400 '
+                                                  'people at a time. '
+                                                  'Alternatively, we can '
+                                                  'introduce you to one of our '
+                                                  'award-winning catering '
+                                                  'partners for a more '
+                                                  'customized experience.  '
+                                                  'With over 5,0',
+                           'businessEmail': 'info@laughboston.com',
+                           'businessName': 'Laugh Boston',
+                           'businessPhone': '+16177292734',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Laugh Boston         '
+                                      'Description: Private Events at Laugh '
+                                      'Boston! Steps away from the Boston '
+                                      'Convention & Exhibition Center and '
+                                      'located inside the Westin waterfront, '
+                                      'Laugh Boston is a unique venue capable '
+                                      'of transforming into whatever you’re '
+                                      'envisioning, day or night, making it '
+                                      'the perfect venue for your event.  Our '
+                                      'full bar and light fare menu can '
+                                      'provide food and drink for 300-400 '
+                                      'people at a time. Alternatively, we can '
+                                      'introduce you to one of our '
+                                      'award-winning catering partners for a '
+                                      'more customized experience.  With over '
+                                      '5,0         Location: 425 Summer Street '
+                                      ', Boston, MA 02210, US         Events '
+                                      'Served: wedding, corporate, '
+                                      'birthday         Service Radius: 62.0 '
+                                      'km         Languages: en         '
+                                      'Accessibility: not_specified         '
+                                      'Rating: 4.7 (from 184 reviews)         '
+                                      'Contact: info@laughboston.com | '
+                                      '+16177292734         Budget: $24534 - '
+                                      '$42363',
+                           'isApproved': True,
+                           'lat': 42.3464352,
+                           'leadTime': 30.0,
+                           'lng': -71.0430567,
+                           'rating': 4.7,
+                           'responseTime': 24.0,
+                           'reviewCount': 184.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 62.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.548043132,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bee6c',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '82A Lansdowne St , Boston, MA 02215, US',
+                           'budgetMax': 37913.0,
+                           'budgetMin': 21711.0,
+                           'businessDescription': 'THE MOST UNIQUE VENUE IN '
+                                                  "BEANTOWN! It's simple to "
+                                                  'throw a party at any '
+                                                  'standard bar or restaurant '
+                                                  'in your neighborhood. '
+                                                  'Bleacher Bar is here to put '
+                                                  'an end to this practice. '
+                                                  "Despite the fact that we're "
+                                                  "located beneath America's "
+                                                  'most beloved ballpark, you '
+                                                  "don't have to be a baseball "
+                                                  'fan to appreciate the '
+                                                  'spectacular outfield view '
+                                                  'that can be found directly '
+                                                  'from our event space. When '
+                                                  'you combine this with our '
+                                                  'old-school, charming '
+                                                  'atmosphere and delectable '
+                                                  "menu, it's a no-brainer to "
+                                                  'host your next s',
+                           'businessEmail': 'info@bleacherbar.com',
+                           'businessName': 'Bleacher Bar',
+                           'businessPhone': '',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Bleacher Bar         '
+                                      'Description: THE MOST UNIQUE VENUE IN '
+                                      "BEANTOWN! It's simple to throw a party "
+                                      'at any standard bar or restaurant in '
+                                      'your neighborhood. Bleacher Bar is here '
+                                      'to put an end to this practice. Despite '
+                                      "the fact that we're located beneath "
+                                      "America's most beloved ballpark, you "
+                                      "don't have to be a baseball fan to "
+                                      'appreciate the spectacular outfield '
+                                      'view that can be found directly from '
+                                      'our event space. When you combine this '
+                                      'with our old-school, charming '
+                                      "atmosphere and delectable menu, it's a "
+                                      'no-brainer to host your next s         '
+                                      'Location: 82A Lansdowne St , Boston, MA '
+                                      '02215, US         Events Served: '
+                                      'wedding, corporate, birthday         '
+                                      'Service Radius: 63.0 km         '
+                                      'Languages: en         Accessibility: '
+                                      'not_specified         Rating: 4.5 (from '
+                                      '152 reviews)         Contact: '
+                                      'info@bleacherbar.com |          Budget: '
+                                      '$21711 - $37913',
+                           'isApproved': True,
+                           'lat': 42.3470663,
+                           'leadTime': 18.0,
+                           'lng': -71.0968154,
+                           'rating': 4.5,
+                           'responseTime': 24.0,
+                           'reviewCount': 152.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 63.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.546014369,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bee42',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '401 D St , Boston, MA 02210, US',
+                           'budgetMax': 29667.0,
+                           'budgetMin': 17908.0,
+                           'businessDescription': 'With 9,000 square feet of '
+                                                  'upbeat & vibrant event '
+                                                  'space, Aloft Boston Seaport '
+                                                  'District is the perfect '
+                                                  'backdrop for your vibe. '
+                                                  'Celebrate with friends or '
+                                                  'innovate with colleagues in '
+                                                  'spaces meant to inspire.  '
+                                                  'Step out for more '
+                                                  'entertainment in the '
+                                                  'booming Seaport District, '
+                                                  "near Boston's best "
+                                                  'attractions, breweries, and '
+                                                  'restaurants. Or continue '
+                                                  'the celebration in our '
+                                                  "onsite WXYZ Bar or at D's "
+                                                  'Keys Dueling Piano Bar '
+                                                  'right next door.',
+                           'businessEmail': 'info@aloftbostonseaportdistrict.com',
+                           'businessName': 'Aloft Boston Seaport District',
+                           'businessPhone': '+16175301600',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Aloft Boston Seaport '
+                                      'District         Description: With '
+                                      '9,000 square feet of upbeat & vibrant '
+                                      'event space, Aloft Boston Seaport '
+                                      'District is the perfect backdrop for '
+                                      'your vibe. Celebrate with friends or '
+                                      'innovate with colleagues in spaces '
+                                      'meant to inspire.  Step out for more '
+                                      'entertainment in the booming Seaport '
+                                      "District, near Boston's best "
+                                      'attractions, breweries, and '
+                                      'restaurants. Or continue the '
+                                      'celebration in our onsite WXYZ Bar or '
+                                      "at D's Keys Dueling Piano Bar right "
+                                      'next door.         Location: 401 D St , '
+                                      'Boston, MA 02210, US         Events '
+                                      'Served: wedding, corporate, '
+                                      'birthday         Service Radius: 55.0 '
+                                      'km         Languages: en         '
+                                      'Accessibility: not_specified         '
+                                      'Rating: 4.2 (from 155 reviews)         '
+                                      'Contact: '
+                                      'info@aloftbostonseaportdistrict.com | '
+                                      '+16175301600         Budget: $17908 - '
+                                      '$29667',
+                           'isApproved': True,
+                           'lat': 42.34361699999999,
+                           'leadTime': 10.0,
+                           'lng': -71.0445805,
+                           'rating': 4.2,
+                           'responseTime': 24.0,
+                           'reviewCount': 155.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 55.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.533081114,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bee37',
+              'metadata': {'accessibility': 'wheelchair_accessible',
+                           'address': '867 Boylston St , Boston, MA 02199, US',
+                           'budgetMax': 45963.0,
+                           'budgetMin': 16559.0,
+                           'businessDescription': 'Take off your tie and get '
+                                                  'ready to enjoy your next '
+                                                  'company happy hour, '
+                                                  'birthday, shower, or any '
+                                                  'other celebration you can '
+                                                  'dream of! Spend quality '
+                                                  'time with your group while '
+                                                  'enjoying delectable '
+                                                  'appetizers and fine '
+                                                  'cocktails!  The Back Bay '
+                                                  'Social Club is the ideal '
+                                                  'location for your upcoming '
+                                                  'event. Groups of 10 to 250 '
+                                                  'people can be accommodated '
+                                                  'at our venue. From seated '
+                                                  'dinners and cocktail '
+                                                  'parties to beer and wine '
+                                                  'tastings, we arrange a '
+                                                  'variety of event '
+                                                  'experiences. There are '
+                                                  'options for semi-priv',
+                           'businessEmail': 'info@backbaysocial.com',
+                           'businessName': 'Back Bay Social',
+                           'businessPhone': '+16178753654',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Back Bay Social         '
+                                      'Description: Take off your tie and get '
+                                      'ready to enjoy your next company happy '
+                                      'hour, birthday, shower, or any other '
+                                      'celebration you can dream of! Spend '
+                                      'quality time with your group while '
+                                      'enjoying delectable appetizers and fine '
+                                      'cocktails!  The Back Bay Social Club is '
+                                      'the ideal location for your upcoming '
+                                      'event. Groups of 10 to 250 people can '
+                                      'be accommodated at our venue. From '
+                                      'seated dinners and cocktail parties to '
+                                      'beer and wine tastings, we arrange a '
+                                      'variety of event experiences. There are '
+                                      'options for semi-priv         Location: '
+                                      '867 Boylston St , Boston, MA 02199, '
+                                      'US         Events Served: wedding, '
+                                      'corporate, birthday         Service '
+                                      'Radius: 56.0 km         Languages: '
+                                      'en         Accessibility: '
+                                      'wheelchair_accessible         Rating: '
+                                      '4.5 (from 112 reviews)         Contact: '
+                                      'info@backbaysocial.com | '
+                                      '+16178753654         Budget: $16559 - '
+                                      '$45963',
+                           'isApproved': True,
+                           'lat': 42.3487414,
+                           'leadTime': 19.0,
+                           'lng': -71.0834598,
+                           'rating': 4.5,
+                           'responseTime': 24.0,
+                           'reviewCount': 112.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 56.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.531374276,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bee52',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '40 Edwin H Land Blvd , Cambridge, MA '
+                                      '02142, US',
+                           'budgetMax': 41053.0,
+                           'budgetMin': 21019.0,
+                           'businessDescription': 'The Royal Sonesta Boston, a '
+                                                  'popular destination for '
+                                                  'extraordinary city wedding '
+                                                  'venues, offers an ideal '
+                                                  'combination of old-world '
+                                                  'charm and modern elegance. '
+                                                  'Events at the Royal Sonesta '
+                                                  'Boston are ones to '
+                                                  'remember, thanks to the '
+                                                  'breathtaking views of the '
+                                                  'Charles River, the '
+                                                  'beautifully appointed '
+                                                  'gathering spaces that can '
+                                                  'accommodate up to 550 '
+                                                  'guests, and a dedicated '
+                                                  'team that helps you plan '
+                                                  'every detail.  The Royal '
+                                                  'Sonesta Boston combines '
+                                                  'contemporary design with '
+                                                  'breathtaking city views '
+                                                  'along the fa',
+                           'businessEmail': 'info@royalsonestaboston.com',
+                           'businessName': 'Royal Sonesta Boston',
+                           'businessPhone': '+16178064200',
+                           'city': 'Cambridge',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Royal Sonesta '
+                                      'Boston         Description: The Royal '
+                                      'Sonesta Boston, a popular destination '
+                                      'for extraordinary city wedding venues, '
+                                      'offers an ideal combination of '
+                                      'old-world charm and modern elegance. '
+                                      'Events at the Royal Sonesta Boston are '
+                                      'ones to remember, thanks to the '
+                                      'breathtaking views of the Charles '
+                                      'River, the beautifully appointed '
+                                      'gathering spaces that can accommodate '
+                                      'up to 550 guests, and a dedicated team '
+                                      'that helps you plan every detail.  The '
+                                      'Royal Sonesta Boston combines '
+                                      'contemporary design with breathtaking '
+                                      'city views along the fa         '
+                                      'Location: 40 Edwin H Land Blvd , '
+                                      'Cambridge, MA 02142, US         Events '
+                                      'Served: wedding, corporate, '
+                                      'birthday         Service Radius: 84.0 '
+                                      'km         Languages: en         '
+                                      'Accessibility: not_specified         '
+                                      'Rating: 4.7 (from 191 reviews)         '
+                                      'Contact: info@royalsonestaboston.com | '
+                                      '+16178064200         Budget: $21019 - '
+                                      '$41053',
+                           'isApproved': True,
+                           'lat': 42.3667097,
+                           'leadTime': 21.0,
+                           'lng': -71.07489389999999,
+                           'rating': 4.7,
+                           'responseTime': 24.0,
+                           'reviewCount': 191.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 84.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.522178173,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bef20',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '284 Amory St , Boston, MA 02130, US',
+                           'budgetMax': 28623.0,
+                           'budgetMin': 5039.0,
+                           'businessDescription': 'Bella Luna & The Milky Way '
+                                                  'offers a unique setting for '
+                                                  'your next party or wedding. '
+                                                  'In the historic '
+                                                  'Haffenreffer Brewery, a '
+                                                  'variety of room, menu, and '
+                                                  'bar choices are available '
+                                                  'to create the exact event '
+                                                  'you imagined.  Whether you '
+                                                  'are looking for a spot to '
+                                                  'celebrate your wedding, '
+                                                  'birthday, or baby shower, '
+                                                  'Bella Luna & The Milky Way '
+                                                  'is here to welcome you and '
+                                                  'your guests.',
+                           'businessEmail': 'info@bellalunarestaurantmilkywaylounge.com',
+                           'businessName': 'Bella Luna Restaurant & Milky Way '
+                                           'Lounge',
+                           'businessPhone': '+617524374039814',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Bella Luna Restaurant & '
+                                      'Milky Way Lounge         Description: '
+                                      'Bella Luna & The Milky Way offers a '
+                                      'unique setting for your next party or '
+                                      'wedding. In the historic Haffenreffer '
+                                      'Brewery, a variety of room, menu, and '
+                                      'bar choices are available to create the '
+                                      'exact event you imagined.  Whether you '
+                                      'are looking for a spot to celebrate '
+                                      'your wedding, birthday, or baby shower, '
+                                      'Bella Luna & The Milky Way is here to '
+                                      'welcome you and your guests.         '
+                                      'Location: 284 Amory St , Boston, MA '
+                                      '02130, US         Events Served: '
+                                      'wedding, corporate, birthday         '
+                                      'Service Radius: 61.0 km         '
+                                      'Languages: en         Accessibility: '
+                                      'not_specified         Rating: 4.8 (from '
+                                      '145 reviews)         Contact: '
+                                      'info@bellalunarestaurantmilkywaylounge.com '
+                                      '| +617524374039814         Budget: '
+                                      '$5039 - $28623',
+                           'isApproved': True,
+                           'lat': 42.3144895,
+                           'leadTime': 14.0,
+                           'lng': -71.1037888,
+                           'rating': 4.8,
+                           'responseTime': 24.0,
+                           'reviewCount': 145.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 61.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.521036148,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9beeab',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '355 Congress St , Boston, MA 02210, US',
+                           'budgetMax': 42166.0,
+                           'budgetMin': 18257.0,
+                           'businessDescription': "Let's have a party! As the "
+                                                  'ideal venue for private, '
+                                                  'business, and social '
+                                                  'gatherings including '
+                                                  'birthday parties, rehearsal '
+                                                  'dinners, anniversaries, and '
+                                                  'special occasions of any '
+                                                  'type, we provide a number '
+                                                  'of possibilities for you '
+                                                  'and your guests.  Roll the '
+                                                  'dice and reserve your '
+                                                  'upcoming corporate happy '
+                                                  'hour with us! Enjoy our '
+                                                  'house sampling while '
+                                                  "sipping on one of Lucky's "
+                                                  "famous drinks.  Lucky's "
+                                                  'takes its food & drink as '
+                                                  'seriously as its '
+                                                  'entertainment, with classic '
+                                                  'cocktails and a noteworthy '
+                                                  'cuisine',
+                           'businessEmail': 'info@luckyslounge.com',
+                           'businessName': "Lucky's Lounge",
+                           'businessPhone': '',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': "Business Name: Lucky's Lounge         "
+                                      "Description: Let's have a party! As the "
+                                      'ideal venue for private, business, and '
+                                      'social gatherings including birthday '
+                                      'parties, rehearsal dinners, '
+                                      'anniversaries, and special occasions of '
+                                      'any type, we provide a number of '
+                                      'possibilities for you and your guests.  '
+                                      'Roll the dice and reserve your upcoming '
+                                      'corporate happy hour with us! Enjoy our '
+                                      'house sampling while sipping on one of '
+                                      "Lucky's famous drinks.  Lucky's takes "
+                                      'its food & drink as seriously as its '
+                                      'entertainment, with classic cocktails '
+                                      'and a noteworthy cuisine         '
+                                      'Location: 355 Congress St , Boston, MA '
+                                      '02210, US         Events Served: '
+                                      'wedding, corporate, birthday         '
+                                      'Service Radius: 77.0 km         '
+                                      'Languages: en         Accessibility: '
+                                      'not_specified         Rating: 4.7 (from '
+                                      '196 reviews)         Contact: '
+                                      'info@luckyslounge.com |          '
+                                      'Budget: $18257 - $42166',
+                           'isApproved': True,
+                           'lat': 42.3501284,
+                           'leadTime': 19.0,
+                           'lng': -71.0484689,
+                           'rating': 4.7,
+                           'responseTime': 24.0,
+                           'reviewCount': 196.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 77.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.51872611,
+              'values': []},
+             {'id': '68a0bd6bcd170b1a7e9bf002',
+              'metadata': {'accessibility': 'not_specified',
+                           'address': '1 Marina Park Drive , Boston, MA 02210, '
+                                      'US',
+                           'budgetMax': 44685.0,
+                           'budgetMin': 8201.0,
+                           'businessDescription': 'Empire provides a gorgeous '
+                                                  'setting, delectable '
+                                                  'cuisine, and dedicated '
+                                                  'service to ensure that your '
+                                                  'special night is one to '
+                                                  'remember. Empire is the '
+                                                  'ideal location for your '
+                                                  'next cocktail reception, '
+                                                  'business luncheon, private '
+                                                  'dinner, anniversary party, '
+                                                  'rehearsal dinner, or other '
+                                                  'special event.  Empire '
+                                                  'Boston is a 14K sq. ft. '
+                                                  'Asian restaurant and lounge '
+                                                  "located in Boston's harbor "
+                                                  'district. The Boston '
+                                                  'Convention and Exhibition '
+                                                  'Center is just a few steps '
+                                                  'away from this '
+                                                  'awe-inspiring and delicious '
+                                                  'place',
+                           'businessEmail': 'info@empireboston.com',
+                           'businessName': 'Empire Boston',
+                           'businessPhone': '',
+                           'city': 'Boston',
+                           'contactPerson': 'Events Manager',
+                           'context': 'Business Name: Empire Boston         '
+                                      'Description: Empire provides a gorgeous '
+                                      'setting, delectable cuisine, and '
+                                      'dedicated service to ensure that your '
+                                      'special night is one to remember. '
+                                      'Empire is the ideal location for your '
+                                      'next cocktail reception, business '
+                                      'luncheon, private dinner, anniversary '
+                                      'party, rehearsal dinner, or other '
+                                      'special event.  Empire Boston is a 14K '
+                                      'sq. ft. Asian restaurant and lounge '
+                                      "located in Boston's harbor district. "
+                                      'The Boston Convention and Exhibition '
+                                      'Center is just a few steps away from '
+                                      'this awe-inspiring and delicious '
+                                      'place         Location: 1 Marina Park '
+                                      'Drive , Boston, MA 02210, US         '
+                                      'Events Served: wedding, corporate, '
+                                      'birthday         Service Radius: 70.0 '
+                                      'km         Languages: en         '
+                                      'Accessibility: not_specified         '
+                                      'Rating: 4.7 (from 172 reviews)         '
+                                      'Contact: info@empireboston.com '
+                                      '|          Budget: $8201 - $44685',
+                           'isApproved': True,
+                           'lat': 42.3533234,
+                           'leadTime': 8.0,
+                           'lng': -71.0451035,
+                           'rating': 4.7,
+                           'responseTime': 24.0,
+                           'reviewCount': 172.0,
+                           'serveEvents': ['wedding', 'corporate', 'birthday'],
+                           'serviceLanguages': ['en'],
+                           'serviceRadius': 70.0,
+                           'state': 'MA',
+                           'vendorType': 'venue'},
+              'score': 0.517378867,
+              'values': []}],
+ 'namespace': '',
+ 'usage': {'read_units': 1}}
