@@ -48,16 +48,5 @@ async def agent_context_middleware(request: Request, call_next):
 @app.get("/heartbeat")
 async def heartbeat():
     logger.info("Heartbeat request received")
-    return JSONResponse({"status": "ok", "version": "0.0.20"})
+    return JSONResponse({"status": "ok", "version": "1.0.0"})
 
-
-if __name__ == "__main__":
-    import uvicorn
-    logger.info("Starting FastAPI server with uvicorn...")
-    uvicorn.run(
-        "app:app",
-        host="0.0.0.0",
-        port=8000,
-        reload=True,
-        log_level="info"
-    )
